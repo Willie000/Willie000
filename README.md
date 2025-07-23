@@ -24,7 +24,7 @@ Core interests: Motion Planning, Robot Perception, Reinforcement Learning, Human
 Built a multi-joint snake robot in Gazebo using ROS 2 and Python.  
 Applied Q-learning for locomotion in a constrained environment. (Spring 2025)
 
-### 🏭 Robotic Manufacturing System in ROS 2 (ENPM663)
+### 🏭 Robotic Manufacturing System in ROS 2 (ENPM663 https://github.com/Abhey16/group2_ariac)
 Developed C++ ROS 2 nodes for order handling, part detection, and robot behavior in a simulated factory.  
 Built and tested with Docker and RViz in the ARIAC competition environment. (Spring 2025)
 
