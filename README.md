@@ -1,14 +1,14 @@
 Hi there, I’m Willie Chen 👋  
 Robotics Developer | Graduate Student at University of Maryland | Open to Work (May 2025)
 
----
+
 
 ## 📘 About Me
 
 I’m a robotics enthusiast with a deep interest in autonomous systems, robot software architecture, and learning-based control.  
 With a strong foundation in C++, Python, and ROS 2, I enjoy designing modular, scalable robot applications—from low-level perception and control to high-level intelligence.
 
----
+
 
 ## 🎓 Education
 
@@ -16,7 +16,7 @@ With a strong foundation in C++, Python, and ROS 2, I enjoy designing modular, s
 University of Maryland, College Park | Graduating May 2025  
 Core interests: Motion Planning, Robot Perception, Reinforcement Learning, Human-Robot Interaction
 
----
+
 
 ## 🛠️ Projects
 
@@ -24,25 +24,36 @@ Core interests: Motion Planning, Robot Perception, Reinforcement Learning, Human
 Built a multi-joint snake robot in Gazebo using ROS 2 and Python.  
 Applied Q-learning for locomotion in a constrained environment. (Spring 2025)
 
+
 ### [🏭 Robotic Manufacturing System in ROS 2 (ENPM663)](https://github.com/Abhey16/group2_ariac) 
 GitHub Repo: [https://github.com/Abhey16/group2_ariac](https://github.com/Abhey16/group2_ariac)
 
 Developed C++ ROS 2 nodes for order handling, part detection, and robot behavior in a simulated factory.  
 Built and tested with Docker and RViz in the ARIAC competition environment. (Spring 2025)
 
+
 ### 🤝 Human-Robot Interaction Project (ENPM645)
 Designed a ROS-based interactive robot that adapts to user gestures and voice inputs.  
 Focused on real-time decision making and user feedback loop.
+
 
 ### 🧠 Machine Learning for Robot Vision (ENPM633)
 Implemented CNN-based object recognition and real-time inference on ROS-compatible camera feeds.  
 Explored transfer learning using PyTorch.
 
-### [🦾 CyberKnife Robot Arm]
+
+### [🦾 CyberKnife Robot Arm](https://github.com/lorocks/CyberKnife)
 GitHub Repo: [CyberKnife](https://github.com/lorocks/CyberKnife)
+
 Implement solidWorks part and assembly for CyberKnife, and ROS2 package to move the CyberKnife autonomously and through user-input.
 
----
+
+### 🎛️ Control of Robotics
+GitHub Repo: [Control of a Two-Pendulum Cart System](https://github.com/vikrams169/Control-of-a-Two-Pendulum-Cart-System)
+
+This repository contains the modeling, analysis, method description, and implementation (code) of controlling a two-pendulum cart system.
+
+
 
 ## 💼 Skills
 
@@ -51,7 +62,7 @@ Implement solidWorks part and assembly for CyberKnife, and ROS2 package to move 
 **Tools:** Gazebo, RViz, Docker, Git, VSCode  
 **Topics:** Motion Planning, Perception, RL, Robot Simulation, Control Systems
 
----
+
 
 ## 🌱 Experience
 
@@ -59,14 +70,14 @@ Implement solidWorks part and assembly for CyberKnife, and ROS2 package to move 
 - Comfortable working in containerized and simulated environments (Docker + Gazebo + ROS).  
 - Leading role in multi-node C++ systems for competition-based robotics.
 
----
+
 
 ## 📫 Contact
 
 - Email: w19910215@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/willie-chen-/](willie-chen-/)
 
----
+
 
 ## 🎈 Fun Facts
 
