@@ -73,7 +73,7 @@ Implementation of a Gaussian Sampling based RRT* with Path Optimization. Combine
 ---
 
 ### 👁️‍🗨️ Perception (ENPM673)
-GitHub Repo: [Perception Based Turtlebot Navigation] (https://github.com/AkhilJavvadi/Perception-Based-Turtlebot-Navigation/)
+GitHub Repo: [Perception Based Turtlebot Navigation](https://github.com/AkhilJavvadi/Perception-Based-Turtlebot-Navigation/)
 
 Perception Based Turtlebot Navigation.
 
