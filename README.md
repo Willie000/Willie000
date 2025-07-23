@@ -38,6 +38,10 @@ Focused on real-time decision making and user feedback loop.
 Implemented CNN-based object recognition and real-time inference on ROS-compatible camera feeds.  
 Explored transfer learning using PyTorch.
 
+### [🦾 CyberKnife Robot Arm]
+GitHub Repo: [CyberKnife](https://github.com/lorocks/CyberKnife)
+Implement solidWorks part and assembly for CyberKnife, and ROS2 package to move the CyberKnife autonomously and through user-input.
+
 ---
 
 ## 💼 Skills
