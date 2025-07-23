@@ -20,19 +20,20 @@ Core interests: Motion Planning, Robot Perception, Reinforcement Learning, Human
 
 ## 🛠️ Projects
 
-### 🤖 Reinforcement Learning-Based Snake Robot (ENPM690)
+** 🤖 Reinforcement Learning-Based Snake Robot (ENPM690) **
 Built a multi-joint snake robot in Gazebo using ROS 2 and Python.  
 Applied Q-learning for locomotion in a constrained environment. (Spring 2025)
 
-### 🏭 Robotic Manufacturing System in ROS 2 (ENPM663 https://github.com/Abhey16/group2_ariac)
+** 🏭 Robotic Manufacturing System in ROS 2 (ENPM663) **
+GitHub Repo: [https://github.com/Abhey16/group2_ariac](https://github.com/Abhey16/group2_ariac)
 Developed C++ ROS 2 nodes for order handling, part detection, and robot behavior in a simulated factory.  
 Built and tested with Docker and RViz in the ARIAC competition environment. (Spring 2025)
 
-### 🤝 Human-Robot Interaction Project (ENPM645)
+** 🤝 Human-Robot Interaction Project (ENPM645) **
 Designed a ROS-based interactive robot that adapts to user gestures and voice inputs.  
 Focused on real-time decision making and user feedback loop.
 
-### 🧠 Machine Learning for Robot Vision (ENPM633)
+** 🧠 Machine Learning for Robot Vision (ENPM633) **
 Implemented CNN-based object recognition and real-time inference on ROS-compatible camera feeds.  
 Explored transfer learning using PyTorch.
 
