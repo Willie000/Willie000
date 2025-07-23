@@ -5,16 +5,22 @@ Robotics Developer | Graduate Student at University of Maryland | Open to Work (
 
 ## 📘 About Me
 
-I’m a robotics enthusiast with a deep interest in autonomous systems, robot software architecture, and learning-based control.  
-With a strong foundation in C++, Python, and ROS 2, I enjoy designing modular, scalable robot applications—from low-level perception and control to high-level intelligence.
-
+Robotics Algorithm Engineer passionate about building autonomous systems with real-world impact. 
+Experienced in motion control, ROS2 development, and robotic perception.
+Delivering end-to-end solutions from mobile navigation to multi-joint locomotion and industrial automation.
 
 
 ## 🎓 Education
 
 **M.Eng. in Robotics**  
-University of Maryland, College Park | Graduating May 2025  
-Core interests: Motion Planning, Robot Perception, Reinforcement Learning, Human-Robot Interaction
+University of Maryland, College Park, U.S.A.  | 2023.08 - 2025.05
+GPA: 3.74/4.0
+Focus Areas: Control Systems, Machine Learning, Perception, and Autonomous Navigation
+
+**B.Eng. in Energy and Refrigerating Air-Conditioning Engineering**  
+National Taipei University of Technology, Taipei, Taiwan | 2010.09 – 2015.01 
+GPA: 3.51/4.0  
+Focus Areas: Thermodynamics, Control Systems, Engineering Programming (MATLAB/C++)
 
 
 
@@ -39,29 +45,40 @@ Focused on real-time decision making and user feedback loop.
 
 --- -->
 
-### 🧠 Machine Learning for Robot Vision (ENPM633)
+### 🧠👁️‍🗨️ Machine Learning for Robot Vision (ENPM633)
 Implemented CNN-based object recognition and real-time inference on ROS-compatible camera feeds.  
 Explored transfer learning using PyTorch.
 
 ---
 
-### 🦾 CyberKnife Robot Arm
+### 🎛️ CyberKnife Robot Arm
 GitHub Repo: [CyberKnife](https://github.com/lorocks/CyberKnife)
 
 Implement solidWorks part and assembly for CyberKnife, and ROS2 package to move the CyberKnife autonomously and through user-input.
 
 ---
 
-### 🎛️ Control of Robotics
+### 🎛️ Control of Robotics (ENPM667)
 GitHub Repo: [Control of a Two-Pendulum Cart System](https://github.com/vikrams169/Control-of-a-Two-Pendulum-Cart-System)
 
 This repository contains the modeling, analysis, method description, and implementation (code) of controlling a two-pendulum cart system.
 
 ---
+
 ### 🚗 Gaussian_Sampled_RRT
 GitHub Repo: [Gaussian_Sampled_RRT](https://github.com/lorocks/Gaussian_Sampled_RRT)
 
 Implementation of a Gaussian Sampling based RRT* with Path Optimization. Combine Sim2Real
+
+---
+
+### 👁️‍🗨️ Perception (ENPM673)
+GitHub Repo: [Perception Based Turtlebot Navigation] (https://github.com/AkhilJavvadi/Perception-Based-Turtlebot-Navigation/)
+
+Perception Based Turtlebot Navigation.
+
+
+---
 
 ## 💼 Skills
 
